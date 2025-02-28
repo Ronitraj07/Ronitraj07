@@ -95,13 +95,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<h2 align="center">📫 Connect with Me</h2>
-
-<div align="center">  
-  <a href="mailto:sinharonitraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ronitraj-sinha"><img src="https://img.shields.io/badge/LinkedIn-Ronitraj%20Sinha-blue?style=for-the-badge&logo=linkedin" /></a> &nbsp;&nbsp;
-  <a href="https://github.com/Ronitraj07"><img src="https://img.shields.io/badge/GitHub-Ronitraj07-black?style=for-the-badge&logo=github" /></a>
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
