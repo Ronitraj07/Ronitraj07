@@ -41,18 +41,23 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 ### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)
-<img src="https://github.com/Ronitraj07/Brainwave_Matrix_Intern/raw/main/demo.gif" width="100%">
 
 🔹 **A real-time phishing detection tool**  
 🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
 
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+
 
 ### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
 
@@ -61,7 +66,9 @@
 🔹 **Backend:** Flask (Python)  
 🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2 align="center">📜 Certifications</h2>
 
@@ -70,7 +77,9 @@
 🏅 **Metasploit from Scratch: Beginner to Professional - Udemy**  
 🏅 **ISO 27001: Information Security Management - Udemy**  
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
@@ -83,7 +92,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" width="50%">
 </p>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <h2 align="center">📫 Connect with Me</h2>
 
@@ -93,7 +104,9 @@
   <a href="https://github.com/Ronitraj07"><img src="https://img.shields.io/badge/GitHub-Ronitraj07-black?style=for-the-badge&logo=github" /></a>
 </div>
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
 <p align="center">
   <i>🔒 Building a future in cybersecurity & AI! 🚀</i>
