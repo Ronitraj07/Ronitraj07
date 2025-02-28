@@ -13,7 +13,6 @@
 <div align="center">  
   <a href="mailto:sinharonitraj@gmail.com"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ronitraj-sinha"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://github.com/Ronitraj07"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" height="40" width="40" /></a>
   <a href="https://www.instagram.com/schriftstellerwolf/"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" height="40" width="40" /></a>
 </div>
 
