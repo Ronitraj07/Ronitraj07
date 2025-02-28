@@ -29,24 +29,35 @@
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="35">
 </p>
 
-### **🛠️ Tech Stack & Tools**
-<p align="center">
+<h3 align="left">• Programming Languages</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/> &nbsp;&nbsp;
 </p>
 
-<p align="center">
+<h3 align="left">• Web Development & Frameworks</h3>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/> &nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite"/> &nbsp;&nbsp;
+<h3 align="left">• Cybersecurity Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
+
+<h3 align="left">• Tools & IDEs</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VSCode"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/> &nbsp;&nbsp;
+</p>
+
 
 ### **🛡️ Cybersecurity Tools**
 <p align="left">
