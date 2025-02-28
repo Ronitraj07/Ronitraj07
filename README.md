@@ -46,9 +46,9 @@
 
 <h3 align="left">• Cybersecurity Tools</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Nmap_logo.svg" width="50" height="50" alt="Nmap"/> &nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Metasploit_logo.png" width="50" height="50" alt="Metasploit"/> &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Burp_suite_logo.png" width="50" height="50" alt="Burp Suite"/> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">• Tools & IDEs</h3>
@@ -58,13 +58,6 @@
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/> &nbsp;&nbsp;
 </p>
 
-
-### **🛡️ Cybersecurity Tools**
-<p align="left">
- <a href="https://nmap.org"> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
-<a href="https://www.metasploit.com/">  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
-<a href="https://portswigger.net/burp">  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
