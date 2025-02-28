@@ -46,7 +46,7 @@
 
 <h3 align="left">• Cybersecurity Tools</h3>
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Nmap_logo.svg" width="50" height="50" alt="Nmap"/> &nbsp;&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4vbkndf2gRS3v-7lormlTG_irfzTUQHd6-g&s" width="50" height="50" alt="Nmap"/> &nbsp;&nbsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Metasploit_logo.png" width="50" height="50" alt="Metasploit"/> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Burp_suite_logo.png" width="50" height="50" alt="Burp Suite"/> &nbsp;&nbsp;
 </p>
