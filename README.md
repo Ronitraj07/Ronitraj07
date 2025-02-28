@@ -1,79 +1,101 @@
-# **👋 Hi, I'm Ronitraj Sinha!**
+<h1 align="center">Hi, I'm Ronitraj Sinha! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40"> </h1>
 
-![Profile Banner](https://user-images.githubusercontent.com/your-username/banner-image.png)
+<h4 align="center">🚀 Cybersecurity & AI Enthusiast | Ethical Hacker | Security Researcher</h4>
 
-### **🚀 Cybersecurity & AI Enthusiast | B.Tech CSE - AI | Ethical Hacking | Security Researcher**
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
 
-- 🔍 Passionate about **Cybersecurity & Artificial Intelligence**
-- 🛡️ Certified in **Cybersecurity (CC) by (ISC)²**
-- 💻 Exploring **Ethical Hacking, Risk Management, and AI-powered Security**
+<div align="center">
+  <h2>🌐 Connect With Me 🌐</h2>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronitraj%20Sinha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronitraj-sinha/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ronitraj07-black?style=flat&logo=github)](https://github.com/Ronitraj07)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Steganography%20Website-orange?style=flat)](https://ronitraj07.github.io/stegano/)
+<div align="center">  
+  <a href="mailto:sinharonitraj@gmail.com"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ronitraj-sinha"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://github.com/Ronitraj07"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Dark.svg" alt="GitHub" height="40" width="40" /></a>
+</div>
+
+<br><br>
+
+- 🔍 **Cybersecurity & AI Enthusiast** | **Certified in Cybersecurity (CC) by (ISC)²**
+- 🛠️ I’m currently working on **Phishing Detection & Steganography Projects**
+- 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, AI**
+- 🚀 My **Portfolio**: [Steganography Website](https://ronitraj07.github.io/stegano/)
+- 📫 **Reach me at**: [sinharonitraj@gmail.com](mailto:sinharonitraj@gmail.com)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="35">
+  <b> Tech Stack & Tools </b>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="35">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,flask,nodejs,postgresql,sqlite" />
+</p>
+
+### **🛡️ Cybersecurity Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
+</p>
 
 ---
 
-## **🛠️ Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
-
----
-
-## **📈 GitHub Stats**
-
-![Ronitraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical)
-
----
-
-## **🔬 Featured Projects**
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)
+<img src="https://github.com/Ronitraj07/Brainwave_Matrix_Intern/raw/main/demo.gif" width="100%">
 
-![Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern/raw/main/demo.gif)
+🔹 **A real-time phishing detection tool**  
+🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
 
-🚀 A real-time **Phishing Link Scanner** with a modern UI to detect malicious URLs.
 
-- **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript
+---
 
 ### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
+<img src="https://github.com/Ronitraj07/steganography-website/raw/main/demo.png" width="100%">
 
-![Steganography Website](https://github.com/Ronitraj07/steganography-website/raw/main/demo.png)
-
-🔐 A web-based steganography tool for secure message encoding in images.
-
-- **Frontend:** HTML, CSS, JavaScript, Node.js
-- **Backend:** Flask (Python)
-- **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)
+🔐 **A web-based steganography tool for secure message encoding in images.**  
+🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
+🔹 **Backend:** Flask (Python)  
+🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)
 
 ---
 
-## **📜 Certifications**
+<h2 align="center">📜 Certifications</h2>
 
-- 🏅 **Certified in Cybersecurity (CC) - (ISC)²**
-- 🏅 **Microsoft Azure Essentials - Microsoft**
-- 🏅 **Metasploit from Scratch: Beginner to Professional - Udemy**
-- 🏅 **ISO 27001: Information Security Management - Udemy**
-
----
-
-## **📫 Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronitraj%20Sinha-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ronitraj-sinha/)
-[![GitHub](https://img.shields.io/badge/GitHub-Ronitraj07-black?style=flat&logo=github)](https://github.com/Ronitraj07)
-[![Email](https://img.shields.io/badge/Email-sinharonitraj%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:sinharonitraj@gmail.com)
+🏅 **Certified in Cybersecurity (CC) - (ISC)²**  
+🏅 **Microsoft Azure Essentials - Microsoft**  
+🏅 **Metasploit from Scratch: Beginner to Professional - Udemy**  
+🏅 **ISO 27001: Information Security Management - Udemy**  
 
 ---
 
-*🔒 Building a future in cybersecurity & AI!*
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitraj07&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="40%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" width="50%">
+</p>
+
+---
+
+<h2 align="center">📫 Connect with Me</h2>
+
+<div align="center">  
+  <a href="mailto:sinharonitraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ronitraj-sinha"><img src="https://img.shields.io/badge/LinkedIn-Ronitraj%20Sinha-blue?style=for-the-badge&logo=linkedin" /></a> &nbsp;&nbsp;
+  <a href="https://github.com/Ronitraj07"><img src="https://img.shields.io/badge/GitHub-Ronitraj07-black?style=for-the-badge&logo=github" /></a>
+</div>
+
+---
+
+<p align="center">
+  <i>🔒 Building a future in cybersecurity & AI! 🚀</i>
+</p>
