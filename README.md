@@ -21,7 +21,6 @@
 - 🔍 **Cybersecurity & AI Enthusiast** | **Certified in Cybersecurity (CC) by (ISC)²**
 - 🛠️ I’m currently working on **Phishing Detection & Steganography Projects**
 - 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, AI**
-- 🚀 My **Portfolio**: [Steganography Website](https://ronitraj07.github.io/stegano/)
 - 📫 **Reach me at**: [sinharonitraj@gmail.com](mailto:sinharonitraj@gmail.com)
 
 <p align="center">
