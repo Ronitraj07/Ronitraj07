@@ -13,7 +13,7 @@
 <div align="center">  
   <a href="mailto:sinharonitraj@gmail.com"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="40" width="40" /></a> &nbsp;&nbsp;
   <a href="https://linkedin.com/in/ronitraj-sinha"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://github.com/Ronitraj07"><img align="center" src="[https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Dark.svg](https://avatars.githubusercontent.com/u/115046341?v=4)" alt="GitHub" height="40" width="40" /></a>
+  <a href="https://github.com/Ronitraj07"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitHub-Dark.svg" alt="GitHub" height="40" width="40" /></a>
 </div>
 
 <br><br>
@@ -55,7 +55,6 @@
 ---
 
 ### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
-<img src="https://github.com/Ronitraj07/steganography-website/raw/main/demo.png" width="100%">
 
 🔐 **A web-based steganography tool for secure message encoding in images.**  
 🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
