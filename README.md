@@ -35,9 +35,9 @@
 
 ### **🛡️ Cybersecurity Tools**
 <p align="left">
- <a href="https://nmap.org/download"> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
-<a href="https://github.com/Ronitraj07">  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
-<a href="https://github.com/Ronitraj07">  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
+ <a href="https://nmap.org"> <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
+<a href="https://www.metasploit.com/">  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
+<a href="https://portswigger.net/burp">  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
 </p>
 
 <p align="center">
