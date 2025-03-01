@@ -107,7 +107,7 @@
 </p>
 
 <p align="center">
-  <img src="" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" width="50%">
 </p>
 
 <p align="center">
