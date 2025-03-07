@@ -102,7 +102,6 @@
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitraj07&theme=radical" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="40%">
 </p>
 
