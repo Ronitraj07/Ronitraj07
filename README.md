@@ -64,17 +64,23 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)
+### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task1)
 
 🔹 **A real-time phishing detection tool**  
 🔹 **Tech Stack:** [FastAPI](https://fastapi.tiangolo.com/), [Node.js](https://nodejs.org/en/docs/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### 🔑 [Password Strength Checker](https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task2)
+
+🔹 **A web-based tool to check password strength with real-time feedback.**  
+🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
+🔹 **Backend:** [FastAPI](https://fastapi.tiangolo.com/) (Python)  
 
 ### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
 
 🔐 **A web-based steganography tool for secure message encoding in images.**  
 🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
 🔹 **Backend:** [Flask](https://flask.palletsprojects.com/) (Python)  
-🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)
+🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steg-back)
 
 <h2 align="center">📜 Certifications</h2>
 
