@@ -69,19 +69,19 @@
 ### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task1)  
 
 🔹 **A real-time phishing detection tool**  
-🔹 **Tech Stack:** [FastAPI](https://fastapi.tiangolo.com/), [Node.js](https://nodejs.org/en/docs/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
 
 ### 🔑 [Password Strength Checker](https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task2)  
 
 🔹 **A web-based tool to check password strength with real-time feedback.**  
-🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
-🔹 **Backend:** [FastAPI](https://fastapi.tiangolo.com/) (Python)  
+🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
+🔹 **Backend:** FastAPI (Python)  
 
 ### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)  
 
 🔐 **A web-based steganography tool for secure message encoding in images.**  
-🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
-🔹 **Backend:** [Flask](https://flask.palletsprojects.com/) (Python)  
+🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
+🔹 **Backend:** Flask (Python)  
 🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steg-back)  
 
 ---
@@ -98,16 +98,16 @@
 ## 📊 GitHub Stats & Achievements  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" height="180px"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitraj07&theme=radical" height="180px">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitraj07&theme=radical" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronitraj07&theme=radical" width="80%">
 </p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronitraj07&theme=radical" width="100%">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="50%">
 </p>
 
 ---
