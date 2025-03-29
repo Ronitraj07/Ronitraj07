@@ -18,10 +18,10 @@
 
 <br><br>
 
-- 🔍 **Cybersecurity & AI Enthusiast** | **Certified in Cybersecurity (CC) by (ISC)²**  
-- 🛠️ I’m currently working on **Phishing Detection & Steganography Projects**  
-- 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, AI**  
-- 📫 **Reach me at**: [sinharonitraj@gmail.com](mailto:sinharonitraj@gmail.com)  
+- 🔍 **Cybersecurity & AI Enthusiast** | **Certified in Cybersecurity (CC) by (ISC)²**
+- 🛠️ I’m currently working on **Phishing Detection & Steganography Projects**
+- 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, AI**
+- 📫 **Reach me at**: [sinharonitraj@gmail.com](mailto:sinharonitraj@gmail.com)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="35">
@@ -31,31 +31,31 @@
 
 <h3 align="left">• Programming Languages</h3>
 <p align="left">
-    <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/> &nbsp;&nbsp;
-    <a href="https://www.oracle.com/developer/javascript/" target="_blank"> <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/> &nbsp;&nbsp;
+    <a href="https://docs.python.org/3/"> <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/> </a> &nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/> </a> &nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/> </a> &nbsp;&nbsp;
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/> </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">• Web Development & Frameworks</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/> &nbsp;&nbsp;
+  <a href="https://fastapi.tiangolo.com/"> <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="FastAPI"/> </a> &nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/"> <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/> </a> &nbsp;&nbsp;
+  <a href="https://nodejs.org/en/docs/"> <img src="https://skillicons.dev/icons?i=nodejs" width="50" height="50" alt="Node.js"/> </a> &nbsp;&nbsp;
 </p>
 
 <h3 align="left">• Cybersecurity Tools</h3>
 <p align="left">
- <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
- <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
- <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
+ <a href="https://nmap.org/book/man.html"><img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"></a>
+ <a href="https://docs.metasploit.com/"><img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white"></a>
+ <a href="https://portswigger.net/burp/documentation"><img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
 </p>
 
 <h3 align="left">• Tools & IDEs</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VSCode"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/> &nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/docs"> <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VSCode"/> </a> &nbsp;&nbsp;
+  <a href="https://docs.github.com/"> <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/> </a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/doc"> <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/> </a> &nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -64,25 +64,17 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)  
+### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)
 
 🔹 **A real-time phishing detection tool**  
-🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
+🔹 **Tech Stack:** [FastAPI](https://fastapi.tiangolo.com/), [Node.js](https://nodejs.org/en/docs/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
-### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)  
+### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
 
 🔐 **A web-based steganography tool for secure message encoding in images.**  
-🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
-🔹 **Backend:** Flask (Python)  
-🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)  
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
+🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
+🔹 **Backend:** [Flask](https://flask.palletsprojects.com/) (Python)  
+🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)
 
 <h2 align="center">📜 Certifications</h2>
 
@@ -91,26 +83,10 @@
 🏅 **Metasploit from Scratch: Beginner to Professional - Udemy**  
 🏅 **ISO 27001: Information Security Management - Udemy**  
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="40%">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" width="50%">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ronitraj07&theme=radical&no-bg=true&no-frame=true&margin-w=15">
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
 <p align="center">
