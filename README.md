@@ -82,7 +82,7 @@
 🔐 **A web-based steganography tool for secure message encoding in images.**  
 🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
 🔹 **Backend:** Flask (Python)  
-🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steg-back)  
+🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steganography)  
 
 ---
 
