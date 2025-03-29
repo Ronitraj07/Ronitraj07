@@ -32,7 +32,7 @@
 <h3 align="left">• Programming Languages</h3>
 <p align="left">
     <a href="https://www.python.org/"> <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/> &nbsp;&nbsp;
+    <a href="https://www.oracle.com/developer/javascript/" target="_blank"> <img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"/> &nbsp;&nbsp;
 </p>
