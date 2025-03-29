@@ -51,48 +51,41 @@
  <a href="https://portswigger.net/burp/documentation"><img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white"></a>
 </p>
 
-<h3 align="left">• Tools & IDEs</h3>
-<p align="left">
-  <a href="https://code.visualstudio.com/docs"> <img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VSCode"/> </a> &nbsp;&nbsp;
-  <a href="https://docs.github.com/"> <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/> </a> &nbsp;&nbsp;
-  <a href="https://git-scm.com/doc"> <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/> </a> &nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-
 <h2 align="center">🚀 Featured Projects</h2>
 
 ### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task1)
 
 🔹 **A real-time phishing detection tool**  
-🔹 **Tech Stack:** [FastAPI](https://fastapi.tiangolo.com/), [Node.js](https://nodejs.org/en/docs/), [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
 
 ### 🔑 [Password Strength Checker](https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task2)
 
-🔹 **A web-based tool to check password strength with real-time feedback.**  
-🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
-🔹 **Backend:** [FastAPI](https://fastapi.tiangolo.com/) (Python)  
+🔐 **A web tool to check the strength of passwords**  
+🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
 
 ### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
 
 🔐 **A web-based steganography tool for secure message encoding in images.**  
-🔹 **Frontend:** [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [Node.js](https://nodejs.org/en/docs/)  
-🔹 **Backend:** [Flask](https://flask.palletsprojects.com/) (Python)  
-🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steg-back)
-
-<h2 align="center">📜 Certifications</h2>
-
-🏅 **Certified in Cybersecurity (CC) - (ISC)²**  
-🏅 **Microsoft Azure Essentials - Microsoft**  
-🏅 **Metasploit from Scratch: Beginner to Professional - Udemy**  
-🏅 **ISO 27001: Information Security Management - Udemy**  
+🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
+🔹 **Backend:** Flask  
+🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steg-back)  
 
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronitraj07&theme=radical" width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronitraj07&theme=radical" width="60%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="50%">
 </p>
 
 <p align="center">
