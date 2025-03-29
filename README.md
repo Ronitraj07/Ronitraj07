@@ -18,10 +18,10 @@
 
 <br><br>
 
-- 🔍 **Cybersecurity & AI Enthusiast** | **Certified in Cybersecurity (CC) by (ISC)²**
-- 🛠️ I’m currently working on **Phishing Detection & Steganography Projects**
-- 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, AI**
-- 📫 **Reach me at**: [sinharonitraj@gmail.com](mailto:sinharonitraj@gmail.com)
+- 🔍 **Cybersecurity & AI Enthusiast** | **Certified in Cybersecurity (CC) by (ISC)²**  
+- 🛠️ I’m currently working on **Phishing Detection & Steganography Projects**  
+- 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, AI**  
+- 📫 **Reach me at**: [sinharonitraj@gmail.com](mailto:sinharonitraj@gmail.com)  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" height="35">
@@ -58,31 +58,27 @@
   <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/> &nbsp;&nbsp;
 </p>
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-
 <h2 align="center">🚀 Featured Projects</h2>
 
-### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)
+### 🛡️ [Phishing Link Scanner](https://github.com/Ronitraj07/Brainwave_Matrix_Intern)  
 
 🔹 **A real-time phishing detection tool**  
 🔹 **Tech Stack:** FastAPI, Node.js, HTML, CSS, JavaScript  
 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-
-### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)
+### 🖼️ [Steganography Website](https://ronitraj07.github.io/stegano/)  
 
 🔐 **A web-based steganography tool for secure message encoding in images.**  
 🔹 **Frontend:** HTML, CSS, JavaScript, Node.js  
 🔹 **Backend:** Flask (Python)  
-🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)
+🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/steganography-website)  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -112,7 +108,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ronitraj07&theme=radical&no-bg=true&no-frame=true&margin-w=15">
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
