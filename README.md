@@ -82,14 +82,11 @@
 🔹 **Backend:** Flask (Python)  
 🔹 **Source Code:** [GitHub Repo](https://github.com/Ronitraj07/Steganography)  
 
-### 🌍 [Hospital MIS System](https://github.com/Ronitraj07/HospitalMIS)  
-🏥 **A modern Hospital Management Information System with integrated store.**  
-🔹 **Frontend:** HTML, CSS, JavaScript  
-🔹 **Backend:** Node.js, Python  
 
-### 🤖 [AI-Based Diagnostic App](https://github.com/Ronitraj07/AI-Diagnostic-App)  
+
+### 🤖 [AI-Based Diagnostic App](https://github.com/Ronitraj07/AI-Diagnosis)  
 🧠 **AI-powered medical assistant for diagnosis & medical info summarization.**  
-🔹 **Tech Stack:** Python, NLP (spaCy, NLTK, Gensim, BeautifulSoup), Tkinter GUI  
+🔹 **Tech Stack:** Python, NLP (spaCy, NLTK, Gensim, BeautifulSoup), CustomTkinter GUI  
 
 ---
 
@@ -105,8 +102,7 @@
 
 ## 📜 Certifications  
 
-🏅 **Certified in Cybersecurity (CC) - (ISC)²**  
-🏅 **Microsoft Azure Essentials - Microsoft**  
+🏅 **Certified in Cybersecurity (CC) - (ISC)²**   
 🏅 **Metasploit from Scratch: Beginner to Professional - Udemy**  
 🏅 **ISO 27001: Information Security Management - Udemy**  
 
