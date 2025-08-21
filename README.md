@@ -8,6 +8,11 @@
 
 ---
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ronitraj07&label=Profile%20Visitors&color=blue&style=flat" alt="Visitor Count">
+</p>
+
+
 ## 🌐 Connect With Me  
 
 <p align="center">
@@ -121,10 +126,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=radical" width="50%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronitraj07&label=Profile%20Visitors&color=blue&style=flat" alt="Visitor Count">
 </p>
 
 ---
