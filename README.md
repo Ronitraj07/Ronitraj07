@@ -74,8 +74,9 @@
 ### 🛡️ Phishing Link Scanner
 - Real-time phishing URL detection tool
 - Analyzes SSL, domain indicators, and URL reputation
-- **Tech:** FastAPI, JavaScript, HTML, CSS  
-🔗 https://github.com/Ronitraj07/Brainwave_Matrix_Intern_Task1
+- **Tech:** FastAPI, JavaScript, HTML, CSS
+🔗 Live: https://phishing-ronitraj.vercel.app/
+🔗 Code: https://github.com/Ronitraj07/Phishing_Link_Scanner
 
 ---
 
