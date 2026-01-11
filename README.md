@@ -75,8 +75,8 @@
 - Real-time phishing URL detection tool
 - Analyzes SSL, domain indicators, and URL reputation
 - **Tech:** FastAPI, JavaScript, HTML, CSS
-🔗 Live: https://phishing-ronitraj.vercel.app/
 🔗 Code: https://github.com/Ronitraj07/Phishing_Link_Scanner
+🔗 Live: https://phishing-ronitraj.vercel.app/
 
 ---
 
@@ -85,9 +85,8 @@
 - Uses **LSB steganography + encryption**
 - Secure backend file processing & downloads
 - **Tech:** Flask, Node.js, Python, JavaScript  
-
+🔗 Live: http://stegano-one.vercel.app/
 🔗 Code: https://github.com/Ronitraj07/Steganography
-🔗 Live: http://stegano-one.vercel.app/  
 ---
 
 ### 🤖 AI-Based Diagnostic Application
