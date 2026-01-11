@@ -85,9 +85,9 @@
 - Uses **LSB steganography + encryption**
 - Secure backend file processing & downloads
 - **Tech:** Flask, Node.js, Python, JavaScript  
-🔗 Live: http://stegano-one.vercel.app/  
-🔗 Code: https://github.com/Ronitraj07/Steganography
 
+🔗 Code: https://github.com/Ronitraj07/Steganography
+🔗 Live: http://stegano-one.vercel.app/  
 ---
 
 ### 🤖 AI-Based Diagnostic Application
