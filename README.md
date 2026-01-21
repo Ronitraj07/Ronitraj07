@@ -11,10 +11,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ronitraj07&label=Profile%20Views&color=blue&style=flat">
-</p>
-
 ---
 
 ## 🌐 Connect With Me
