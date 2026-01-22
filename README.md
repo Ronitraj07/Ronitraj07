@@ -82,7 +82,7 @@
 - Ensures safe backend file processing and encrypted downloads  
 - **Tech Stack:** Flask, Node.js, Python, JavaScript  
 
-🔗 **Live:** http://stegano-one.vercel.app/  
+🔗 **Live:** https://stegano-ronitraj.vercel.app/
 🔗 **Code:** https://github.com/Ronitraj07/Steganography  
 
 ---
