@@ -1,131 +1,190 @@
-<h1 align="center">
-  Hi, I'm Ronitraj Sinha! 
-  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="40">
-</h1>
+<div align="center">
 
-<h4 align="center">
-  🔐 Cybersecurity Enthusiast | SOC Analyst Aspirant | Network & Application Security
-</h4>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Ronitraj%20Sinha&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Cybersecurity%20%7C%20Full-Stack%20Dev%20%7C%20AI%20Enthusiast&descAlignY=58&descColor=a0c4ff&animation=twinkling" />
 
+</div>
 
----
+<br/>
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:sinharonitraj@gmail.com">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ronitraj-sinha">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" height="40">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/schriftstellerwolf/">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" height="40">
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=🛡️+SOC+Analyst+Aspirant+%7C+Blue+Teamer;🔐+Security+%2B+Code+%3D+My+Stack;🤖+B.Tech+CSE+(AI)+%40+Parul+University)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 🔥 About Me
-- 🎓 B.Tech CSE (AI) student passionate about **Cybersecurity & Network Security**
-- 🛡️ **Certified in Cybersecurity (CC)** – (ISC)²
-- 🔍 Interested in **SOC Operations, Threat Detection & Secure Applications**
-- 💻 Hands-on experience with **security-focused projects**
-- 🎯 Currently learning **Networking fundamentals & SOC workflows**
-- 📫 Reach me at: **sinharonitraj@gmail.com**
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-sinharonitraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinharonitraj@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronitraj%20Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronitraj-sinha)
+[![Instagram](https://img.shields.io/badge/Instagram-%40schriftstellerwolf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/schriftstellerwolf/)
+[![GitHub](https://img.shields.io/badge/GitHub-Ronitraj07-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ronitraj07)
+
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Who Am I
 
-### 🔹 Programming & Scripting
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css">
-</p>
-
-### 🔹 Backend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs">
-</p>
-
-### 🔹 Cybersecurity Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white">
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white">
-</p>
-
-### 🔹 Developer Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode">
-</p>
+```yaml
+name        : Ronitraj Rajivkumar Sinha
+location    : Gujarat, India
+education   : B.Tech CSE (AI) — Parul University (2022–2026)
+focus       : Cybersecurity · Blue Team · SOC Operations · Secure Dev
+certified   : (ISC)² Certified in Cybersecurity (CC)
+interests   : Threat Detection · Network Security · Steganography · AI/NLP
+status      : Open to Internships & Entry-Level SOC / Security Roles
+```
 
 ---
 
-## 🚀 Featured Security Projects
+## 🛡️ Cybersecurity Arsenal
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+
+</div>
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Scripting
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
+</div>
+
+### Backend & Frameworks
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs&theme=dark" />
+</div>
+
+### Dev Tools & Version Control
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ Phishing Link Scanner
-- Web-based phishing URL detection tool for identifying suspicious links  
-- Analyzes URL patterns, SSL presence, and phishing indicators  
-- Includes user awareness sections explaining phishing risks and prevention  
-- **Tech Stack:** FastAPI, JavaScript, HTML, CSS  
+> Web tool for real-time phishing URL detection
 
-🔗 **Live:** https://phishing-ronitraj.vercel.app/  
-🔗 **Code:** https://github.com/Ronitraj07/Phishing_Link_Scanner  
+- Analyzes URL patterns, SSL presence & phishing indicators
+- User awareness module on phishing risks
+- **Stack:** `FastAPI` `JavaScript` `HTML/CSS`
+
+[![Live](https://img.shields.io/badge/🌐%20Live-Demo-00d4ff?style=flat-square)](https://phishing-ronitraj.vercel.app/)
+[![Code](https://img.shields.io/badge/💻%20Source-Code-181717?style=flat-square&logo=github)](https://github.com/Ronitraj07/Phishing_Link_Scanner)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Steganography Secure Comm App
+> Hide secrets inside media using LSB + encryption
+
+- Supports text-in-image, image-in-image, video & ciphertext
+- LSB steganography combined with encryption layer
+- **Stack:** `Flask` `Node.js` `Python` `JavaScript`
+
+[![Live](https://img.shields.io/badge/🌐%20Live-Demo-00d4ff?style=flat-square)](https://stegano-ronitraj.vercel.app/)
+[![Code](https://img.shields.io/badge/💻%20Source-Code-181717?style=flat-square&logo=github)](https://github.com/Ronitraj07/Steganography)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI-Based Diagnostic App
+> NLP-powered medical symptom analyzer
+
+- Performs symptom analysis & info summarization
+- Chatbot-driven interaction via NLP pipeline
+- **Stack:** `Python` `spaCy` `NLTK` `Gensim` `BeautifulSoup`
+
+[![Code](https://img.shields.io/badge/💻%20Source-Code-181717?style=flat-square&logo=github)](https://github.com/Ronitraj07/AI-Diagnosis)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 More Coming Soon…
+> Currently building more security automation tools
+
+- Network traffic anomaly detector
+- SIEM log parser & alert dashboard
+- CTF writeup repository
+
+*Watch this space 👀*
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🔐 Steganography-Based Secure Communication Web App
-- Secure hiding of **text-in-image, image-in-image, video & ciphertext**  
-- Implements **LSB steganography combined with encryption**  
-- Ensures safe backend file processing and encrypted downloads  
-- **Tech Stack:** Flask, Node.js, Python, JavaScript  
+## 📜 Certifications & Learning
 
-🔗 **Live:** https://stegano-ronitraj.vercel.app/
-🔗 **Code:** https://github.com/Ronitraj07/Steganography  
-
----
-
-### 🤖 AI-Based Diagnostic Application
-- AI-powered medical diagnostic assistant using NLP techniques  
-- Performs symptom analysis, chatbot interaction, and info summarization  
-- **Tech Stack:** Python, spaCy, NLTK, Gensim, BeautifulSoup  
-
-🔗 **Code:** https://github.com/Ronitraj07/AI-Diagnosis  
+| 🏅 Certification | 🏢 Issuer | 📌 Status |
+|---|---|---|
+| Certified in Cybersecurity (CC) | (ISC)² | ✅ Completed |
+| Metasploit from Scratch | Udemy | ✅ Completed |
+| ISO/IEC 27001 Information Security | Udemy | ✅ Completed |
+| CCNA (Routing & Switching) | Cisco | 🔜 Planned |
+| CompTIA Security+ | CompTIA | 🔜 Planned |
+| CEH (Certified Ethical Hacker) | EC-Council | 🔜 Planned |
 
 ---
 
 ## 🎯 Career Roadmap
-- 🔐 Entry into **SOC Analyst / Blue Team roles**
-- 📡 Strengthen **network traffic analysis & security fundamentals**
-- 🧪 Build more **security automation & detection tools**
-- 📜 Certifications planned: **CCNA → Security+ → CEH**
-- 🚀 Long-term goal: **Network Security Engineer**
 
----
-
-## 📜 Certifications
-- 🏅 **Certified in Cybersecurity (CC)** – (ISC)²  
-- 🏅 Metasploit from Scratch – Udemy  
-- 🏅 ISO/IEC 27001 Information Security – Udemy  
+```
+2026  ──▶  [ SOC Analyst / Blue Team Entry ] 🛡️
+              ↓
+           [ CCNA Certification ] 📡
+              ↓
+           [ Security+ / CEH ] 🔐
+              ↓
+           [ Security Automation & SIEM Tools ] 🧪
+              ↓
+2028+  ──▶  [ Network Security Engineer ] 🚀
+```
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600"
-    height="180"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Ronitraj07&theme=radical&hide_border=true"
-    height="180"
-  />
-</p>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ronitraj07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a0c4ff&text_color=c9d1d9&cache_seconds=21600" height="170" />
+<img src="https://streak-stats.demolab.com?user=Ronitraj07&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=a0c4ff" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronitraj07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="150" />
+
+</div>
 
 ---
 
-<p align="center">
-  <i>🔐 Building secure systems, one project at a time.</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Building%20Secure%20Systems%2C%20One%20Layer%20at%20a%20Time&fontSize=16&fontColor=00d4ff&fontAlignY=65&animation=twinkling" />
+
+</div>
